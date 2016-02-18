@@ -9,7 +9,8 @@
             </div>
             <div class="row">
                 <p class="about">
-                 {% markdown about.md %}
+                 {% capture out %}{% include about.md %}{% endcapture %}
+                 {{ out | markdownify }}
                 </p>
             </div>
         </div>
