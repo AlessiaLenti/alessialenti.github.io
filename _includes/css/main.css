@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+* {
+    font-family: courier new !important;
+}
+
 body {
     overflow-x: hidden;
 }
@@ -33,7 +37,6 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: courier new;
     font-weight: 700;
 }
 
