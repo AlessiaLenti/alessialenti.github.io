@@ -6,7 +6,7 @@ img: Hiphopdancer.jpg
 thumb: hiphopdancer.sm.jpg
 alt: image-alt
 project-date: 2015-12-28
-client: Private
+client: Work on commission
 category: Illustration
 description: This is a CD cover I made for a guy interested in hip hop dance.
 ---
