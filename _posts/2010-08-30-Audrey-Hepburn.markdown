@@ -6,7 +6,7 @@ img: Audrey.jpg
 thumb: audrey.sm.jpg
 alt: Audrey
 project-date: 2015-07-20
-client: Exsercise
+client: My stuff
 category: Illustration
 description: A tribute to the gorgeous Audrey Hepburn. Watercolour and ink on paper.
 ---
