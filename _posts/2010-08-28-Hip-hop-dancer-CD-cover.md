@@ -8,5 +8,5 @@ alt: image-alt
 project-date: 2015-12-28
 client: Work on commission
 category: Illustration
-description: This is a CD cover I made for a guy interested in hip hop dance. Watercolour, ink and acrylic on papaer.
+description: This is a CD cover I made for a guy interested in hip hop dance. Watercolour, ink and acrylic on paper.
 ---
