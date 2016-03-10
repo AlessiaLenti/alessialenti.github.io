@@ -8,6 +8,6 @@ alt: image-alt
 project-date: 2016-03-05
 client: My stuff
 category: Illustration
-description: My personal tribute to the touching, intense and meaningful movie "The Broken Circle Breakdown". Watercolour and ink on paper.
+description: My personal tribute to the touching, intense and meaningful movie "Alabama Monroe". Watercolour and ink on paper.
 
 ---
