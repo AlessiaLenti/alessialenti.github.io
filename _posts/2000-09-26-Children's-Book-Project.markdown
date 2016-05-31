@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2000-09-26
-img: Bambini.jpg
+img: Bambiniebambine.jpg
 thumb: bambini.sm.jpg
 alt: image-alt
 project-date: 2016
